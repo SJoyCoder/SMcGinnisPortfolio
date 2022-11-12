@@ -183,6 +183,41 @@ hr {
   margin-right: 15px;
 }
 
+form {
+  margin-left: 1rem;
+}
+
+input {
+  margin-bottom: 10px;
+  border-color: var(--accent-color);
+  border-style: double;
+  box-shadow: 0 0 2px var(--accent-color);
+  margin-left: 1em;
+}
+
+textarea {
+  border-color: var(--accent-color);
+  border-width: 2px;
+  box-shadow: 0 0 2px var(--accent-color);
+  margin-left: 1em;
+}
+
+.subBtn {
+  background-image: url(./assets/59-blush-pink-8x10.jpg);
+  color: var(--accent-color);
+  padding:8px;
+  margin: 5px;
+  font-size: 90%;
+  border-radius: 10%;
+}
+
+#resume img {
+  width: 75%;
+  height: auto;
+  padding-left: 12%;
+  padding-right: 10%;
+}
+
 @media screen and (max-width: 800px) {
   body {
       font-size: 75%;

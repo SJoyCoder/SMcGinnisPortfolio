@@ -1,10 +1,12 @@
 import React from 'react';
 
+import resume from '../assets/ResumeImage.png'
+
 const Resume = () => {
     return (
         <section id="resume">
         <h2>Resume</h2>
-        <a href="./assets/Resume- Unedited.pages">Click here to see my resume</a>
+        <img src={resume}/>
     </section>
     );
 };
