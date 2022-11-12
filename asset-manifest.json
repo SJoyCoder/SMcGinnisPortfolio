@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2a7b2017.css",
+    "main.js": "/static/js/main.317c11e3.js",
+    "static/js/787.1adaea21.chunk.js": "/static/js/787.1adaea21.chunk.js",
+    "static/media/59-blush-pink-8x10.jpg": "/static/media/59-blush-pink-8x10.cea085c31f2fa9207d8a.jpg",
+    "static/media/Weather Dashboard.gif": "/static/media/Weather Dashboard.bd4d5b8a8e903f179a49.gif",
+    "static/media/GenerateTeamRoster.png": "/static/media/GenerateTeamRoster.b23cd47667b81da929fc.png",
+    "static/media/MoviesRUs.gif": "/static/media/MoviesRUs.88ce214f819c3c41c0d9.gif",
+    "static/media/HappyHolidaysGiftTracker.png": "/static/media/HappyHolidaysGiftTracker.aab0f8240b21c66988b2.png",
+    "static/media/Work Day Scheduler.gif": "/static/media/Work Day Scheduler.83ee2e48c56996765a9e.gif",
+    "static/media/Note Taker.gif": "/static/media/Note Taker.92ad9d39ff6bb0ce1dea.gif",
+    "static/media/IMG_2257.jpg": "/static/media/IMG_2257.aa8d2d3dd9da1a4a0c4d.jpg",
+    "static/media/TechBlog.png": "/static/media/TechBlog.5f101ee4f4246c5eebd4.png",
+    "static/media/ResumeImage.png": "/static/media/ResumeImage.ebaac9487088db349d3a.png",
+    "index.html": "/index.html",
+    "main.2a7b2017.css.map": "/static/css/main.2a7b2017.css.map",
+    "main.317c11e3.js.map": "/static/js/main.317c11e3.js.map",
+    "787.1adaea21.chunk.js.map": "/static/js/787.1adaea21.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a7b2017.css",
+    "static/js/main.317c11e3.js"
+  ]
+}
